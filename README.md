@@ -2,90 +2,165 @@
 ### Beauty, Beyond the Ordinary.
 
 <p align="center">
-  <strong>DESIGN-LED E-COMMERCE EXPERIENCE</strong>
+  <strong>A LUXURY BEAUTY & COSMETICS E-COMMERCE EXPERIENCE</strong>
   <br/>
-  UI/UX DESIGN · WEB DESIGN · FRONTEND DEVELOPMENT
+  UI/UX DESIGN &nbsp;·&nbsp; CREATIVE DIRECTION &nbsp;·&nbsp; FRONTEND DEVELOPMENT
 </p>
 
 <p align="center">
   <a href="https://velisse-livid.vercel.app/">
-    <strong>VIEW LIVE PROJECT ↗</strong>
+    <strong>EXPLORE THE LIVE EXPERIENCE ↗</strong>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Saumya-Mishraa/velisse">
+    <strong>VIEW SOURCE CODE</strong>
   </a>
 </p>
 
 ---
 
-### 01 / THE VISION
+## THE PROJECT
 
-VÉLISSE is a luxury beauty and cosmetics e-commerce experience built around the idea that a website should feel as beautiful as the brand it represents.
+**VÉLISSE** is a luxury-inspired beauty and cosmetics e-commerce website created to bring together refined aesthetics, thoughtful user experience, and modern frontend development.
 
-The project explores the intersection of **visual design, user experience, and web development**, transforming a traditional shopping interface into an elegant digital brand experience.
+Built around the philosophy that digital shopping should feel as beautiful as the products themselves, VÉLISSE transforms a conventional online store into an elegant, brand-led experience.
 
-From visual identity to responsive implementation, the focus is on creating a cohesive experience that feels polished, intuitive, and engaging.
+Every element contributes to a cohesive visual identity — from sophisticated typography and editorial-inspired layouts to carefully presented product collections and intuitive shopping interactions.
 
-### 02 / DESIGN APPROACH
+The result is a digital experience where **beauty meets functionality, and design meets purpose.**
 
-**Art Direction & Visual Identity**
-- Luxury-inspired visual language
-- Refined typography and visual hierarchy
-- Editorial-style layouts and product imagery
-- Consistent design language across sections
+---
 
-**UI/UX & Interaction**
-- User-focused interface structure
-- Intuitive navigation and content flow
-- Clear product discovery experience
-- Responsive layouts across screen sizes
+## THE CREATIVE DIRECTION
 
-### 03 / THE EXPERIENCE
+VÉLISSE follows a minimalist luxury aesthetic, balancing visual storytelling with usability.
 
-| Experience | Description |
+| Design Principle | Approach |
 |:--|:--|
-| Brand Experience | Immersive luxury-inspired homepage |
-| Product Discovery | Beauty collections and product showcases |
-| Shopping Interface | Product browsing and cart functionality |
-| Visual Storytelling | Editorial layouts and brand-focused sections |
-| Responsive Experience | Desktop, tablet and mobile layouts |
+| Visual Identity | Sophisticated, minimal, luxury-inspired aesthetic |
+| Typography | Refined typography and intentional hierarchy |
+| Layout | Editorial-inspired compositions and clean spacing |
+| Imagery | Carefully presented beauty and cosmetics products |
+| User Experience | Intuitive navigation and seamless interactions |
+| Responsiveness | Consistent experience across desktop, tablet, and mobile |
 
-### 04 / BUILT WITH
+---
 
-**Frontend & Frameworks**
+## THE EXPERIENCE
 
-`React` `TypeScript` `TanStack Start` `Tailwind CSS` `Vite`
+**01 — Brand Experience**
 
-### 05 / DEVELOPMENT
+A visually engaging homepage that introduces the VÉLISSE identity through elegant layouts and brand-focused storytelling.
 
-The project follows a modern component-based development approach, combining reusable UI elements, responsive styling, and structured TypeScript implementation.
+**02 — Product Discovery**
 
-To run locally:
+A curated shopping experience featuring beauty and cosmetics products with visually focused product presentations.
+
+**03 — Shopping Experience**
+
+An intuitive shopping interface with product browsing and cart functionality.
+
+**04 — Visual Storytelling**
+
+Editorial-inspired sections, thoughtful compositions, and consistent visual language throughout the website.
+
+**05 — Responsive Design**
+
+A flexible interface designed to deliver a cohesive experience across different screen sizes and devices.
+
+---
+
+## TECHNOLOGY
+
+VÉLISSE is built using a modern frontend technology stack, combining component-based architecture with responsive styling and type-safe development.
+
+| Technology | Purpose |
+|:--|:--|
+| React | Component-based user interface |
+| TypeScript | Type-safe development |
+| TanStack Start | Application framework and routing |
+| Tailwind CSS | Styling and responsive layouts |
+| Vite | Development and build tooling |
+
+---
+
+## DEVELOPMENT
+
+The project follows a structured, component-based approach with an emphasis on reusable elements, maintainable code, responsive layouts, and consistent design implementation.
+
+### Run Locally
+
+**Prerequisites**
+- Node.js
+- npm
+
+**1. Clone the repository**
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Saumya-Mishraa/velisse.git
+```
+
+**2. Navigate to the project directory**
+
+```bash
 cd velisse
+```
+
+**3. Install dependencies**
+
+```bash
 npm install --legacy-peer-deps
+```
+
+**4. Start the development server**
+
+```bash
 npm run dev
 ```
 
-Production build:
+**5. Create a production build**
 
 ```bash
 npm run build
 ```
 
-### 06 / PROJECT DETAILS
+---
 
-| Category | Details |
+## PROJECT INFORMATION
+
+| Detail | Information |
 |:--|:--|
-| Project | VÉLISSE |
-| Type | Beauty & Cosmetics E-Commerce |
-| Focus | UI/UX & Web Development |
-| Design Direction | Luxury / Editorial / Minimal |
+| Project Name | VÉLISSE |
+| Project Category | E-Commerce Website |
+| Industry | Beauty & Cosmetics |
+| Design Style | Luxury / Minimal / Editorial |
+| Primary Focus | UI/UX & Frontend Development |
+| Framework | React / TanStack Start |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
 | Deployment | Vercel |
+| Status | Live |
+
+---
+
+## LIVE PROJECT
+
+<p align="center">
+  <a href="https://velisse-livid.vercel.app/">
+    <strong>VÉLISSE — BEAUTY, BEYOND THE ORDINARY ↗</strong>
+  </a>
+  <br/><br/>
+  Discover the experience, explore the collections, and experience the design.
+</p>
 
 ---
 
 <p align="center">
   <strong>VÉLISSE®</strong>
+  <br/>
+  <em>Beauty, Beyond the Ordinary.</em>
   <br/><br/>
-  <sub>Concept, Design & Development</sub>
+  <sub>Independently designed and developed.</sub>
+  <br/>
+  <sub>Concept · Creative Direction · Design · Development</sub>
 </p>
