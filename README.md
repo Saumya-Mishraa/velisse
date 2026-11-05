@@ -1,77 +1,108 @@
-# Velisse – Beauty & Cosmetics
+# ✧ VÉLISSE
+### Beauty, Beyond the Ordinary.
 
-Velisse is a modern beauty and cosmetics e-commerce website created to provide an elegant, seamless, and enjoyable online shopping experience. It combines a sophisticated visual identity with a user-friendly interface, making it easy for customers to explore beauty products and discover curated collections.
+<p align="center">
+  <strong>A Luxury Beauty & Cosmetics E-Commerce Experience</strong>
+</p>
 
-## About the Project
+<p align="center">
+  <a href="https://velisse-livid.vercel.app/">✦ Live Website</a>
+  &nbsp; • &nbsp;
+  <a href="#-features">Features</a>
+  &nbsp; • &nbsp;
+  <a href="#-tech-stack">Tech Stack</a>
+</p>
 
-Velisse is designed with a focus on premium aesthetics, intuitive navigation, responsive layouts, and a smooth shopping experience. The website reflects a modern beauty brand through its carefully designed interface and product presentation.
+---
 
-## Features
+## ♡ The Experience
 
-- Elegant and modern user interface
-- Responsive design for desktop and mobile devices
-- Beauty and cosmetics product collections
-- Product browsing and detailed product presentation
-- Shopping cart functionality
-- Intuitive navigation
-- Premium brand-focused visual design
+**VÉLISSE** is a luxury-inspired beauty and cosmetics e-commerce website created to bring elegance, sophistication, and simplicity into online shopping.
 
-## Built With
+Inspired by modern beauty aesthetics, the project combines editorial-style visuals, refined product presentation, and an intuitive shopping experience to create a digital storefront that feels like a premium beauty destination.
 
-- React
-- TypeScript
-- TanStack Start
-- Tailwind CSS
-- Vite
+Every detail is designed to reflect the essence of a modern beauty brand — where aesthetics meet functionality.
 
-## Getting Started
+## ✧ Features
 
-### Prerequisites
+- **Luxury UI Design** — Elegant layouts with a refined visual identity.
+- **Responsive Experience** — Optimized for desktop, tablet, and mobile screens.
+- **Beauty Collections** — Curated product categories and collections.
+- **Product Showcase** — Beautifully presented beauty products.
+- **Shopping Cart** — Convenient cart experience for shoppers.
+- **Intuitive Navigation** — Smooth and user-friendly browsing.
+- **Brand Storytelling** — Editorial-inspired visuals and brand-focused sections.
 
-Make sure you have Node.js and npm installed.
+## ❀ Tech Stack
 
-### Installation
+| Technology | Purpose |
+|---|---|
+| React | Component-based UI development |
+| TypeScript | Type safety and maintainable code |
+| TanStack Start | Application framework |
+| Tailwind CSS | Responsive styling |
+| Vite | Development and build tooling |
 
-Clone the repository:
+## ◇ Getting Started
+
+Want to explore the project locally?
+
+**1. Clone the repository**
 
 ```bash
 git clone <your-github-repository-url>
 ```
 
-Navigate to the project directory:
+**2. Navigate to the project**
 
 ```bash
 cd velisse
 ```
 
-Install dependencies:
+**3. Install dependencies**
 
 ```bash
 npm install --legacy-peer-deps
 ```
 
-Start the development server:
+**4. Start the development server**
 
 ```bash
 npm run dev
 ```
 
-Open the local URL displayed in your terminal to view the website.
+Open the local URL provided in your terminal.
 
-## Build for Production
+## ✦ Production Build
+
+Create an optimized production build:
 
 ```bash
 npm run build
 ```
 
-## Deployment
+## ☁ Deployment
 
-The project can be deployed using Vercel by connecting the GitHub repository and configuring the appropriate build settings.
+VÉLISSE is deployed on **Vercel**.
 
-## Project Ownership
+Explore the live experience:
 
-Velisse is an independently developed project. Its design, implementation, and development work are maintained by the project owner.
+<p align="center">
+  <a href="https://velisse-livid.vercel.app/">
+    <strong>✧ VISIT VÉLISSE →</strong>
+  </a>
+</p>
+
+## ♡ Project Credits
+
+Designed and developed as an independent frontend project, focusing on luxury brand aesthetics, UI/UX design, responsive development, and modern web technologies.
 
 ---
 
-**Velisse – Beauty, Elegance & Confidence.**
+<p align="center">
+  <strong>VÉLISSE</strong>
+  <br/>
+  <em>Beauty. Elegance. Confidence.</em>
+  <br/><br/>
+  Crafted with ♡
+</p>
