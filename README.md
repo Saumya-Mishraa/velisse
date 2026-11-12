@@ -160,6 +160,5 @@ npm run build
   <br/>
   <em>Beauty, Beyond the Ordinary.</em>
   <br/>
-  <br/>
   <sub>Concept · Creative Direction · Design · Development</sub>
 </p>
