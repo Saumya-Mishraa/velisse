@@ -159,8 +159,7 @@ npm run build
   <strong>VÉLISSE®</strong>
   <br/>
   <em>Beauty, Beyond the Ordinary.</em>
-  <br/><br/>
-  <sub>Independently designed and developed.</sub>
+  <br/>
   <br/>
   <sub>Concept · Creative Direction · Design · Development</sub>
 </p>
